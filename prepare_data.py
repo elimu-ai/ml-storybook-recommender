@@ -24,3 +24,12 @@ print(f"learning_events_pd: \n{learning_events_pd}")
 
 # Clean the data
 # TODO
+
+# Preprocess the data
+# TODO
+
+# Feature engineering
+# TODO
+
+# Normalize the data
+# TODO

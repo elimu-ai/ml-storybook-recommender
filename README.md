@@ -1,29 +1,27 @@
-# ml-storybooks-recommender 🤖📚
+# ML: Storybook Recommender 🤖📚
 
-Machine learning model which predicts the rating of unread storybooks based on the student's previously read storybooks.
+> Machine learning model which predicts the likability of unread storybooks based on a child's previously read 
+> storybooks.
 
-One model will be trained per language.
+> [!IMPORTANT]
+> This learning model will be used by Android applications, so it needs to be stored in a format standard compatible 
+> with the Android technology, e.g. [ONNX](https://onnx.ai).
 
 
 ## 1. Prepare the Data
 
-To prepare the data, follow these steps:
-  * Open `prepare_data.py` and select environment and language.
-  * Go to the website corresponding to the chosen environment and language, e.g. https://eng.test.elimu.ai.
-  * Download `storybooks.csv` from https://eng.test.elimu.ai/content/storybook/list.
-  * Download `storybook-learning-events.csv` from https://eng.test.elimu.ai/analytics/storybook-learning-event/list.
-  * Add the two datasets to `RAW_DATA_DIR`.
-  * Execute the script: `python prepare_data.py`
+See [`step1_prepare`](./step1_prepare)
 
 
 ## 2. Train the Model
 
-TODO
+See [`step2_train`](./step2_train)
 
 
 ## 3. Make Predictions on New Samples
 
-TODO
+See [`step3_predict`](./step3_predict)
+
 
 ---
 
@@ -31,7 +29,7 @@ TODO
   <img src="https://github.com/elimu-ai/webapp/blob/main/src/main/webapp/static/img/logo-text-256x78.png" />
 </p>
 <p align="center">
-  elimu.ai - Free open-source learning software for out-of-school children ✨🚀
+  elimu.ai - Free open-source learning software for out-of-school children 🚀✨
 </p>
 <p align="center">
   <a href="https://elimu.ai">Website 🌐</a>

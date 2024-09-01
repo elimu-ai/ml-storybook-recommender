@@ -1,24 +1,19 @@
-name: Run all steps
+name: Run all steps (nightly)
 
 on:
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
+  schedule:
+    - cron: 59 23 * * *
 
 jobs:
   run_all_steps:
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        python-version: ["3.9", "3.10", "3.11"]
     steps:
     - uses: actions/checkout@v4
 
-    - name: Set up Python ${{ matrix.python-version }}
+    - name: Set up Python 3.10
       uses: actions/setup-python@v3
       with:
-        python-version: ${{ matrix.python-version }}
+        python-version: "3.11"
 
     - name: Install dependencies
       run: |
@@ -36,3 +31,15 @@ jobs:
     - name: Run All Steps (1-3)
       run: |
         python run_all_steps.py
+
+    - name: Git Config
+      run: |
+        git config user.name 'Nya Ξlimu'
+        git config user.email 'info@elimu.ai'
+    - name: Git Commit
+      run: |
+        git add step1_prepare/*.csv
+        git commit -m 'chore(ml): run all steps' --allow-empty
+    - name: Git Push
+      run: |
+        git push

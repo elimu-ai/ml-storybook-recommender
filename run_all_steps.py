@@ -8,7 +8,7 @@ import step1_prepare.step1_1_download_data
 
 # Step 1.3 Split Data
 import step1_prepare.step1_3_split_data
-step1_prepare.step1_3_split_data.split_multiple_files(input_directory='/Users/nitikabahl/story recemonder/ml-storybook-recommender/step1_prepare/')
+step1_prepare.step1_3_split_data.split_multiple_files(input_directory='.')
 
 
 print('\n*** Step 2. Train Model 🌏🚀 ***')

@@ -2,7 +2,7 @@ name: Run all steps (nightly)
 
 on:
   schedule:
-    - cron: 59 23 * * *
+    - cron: 20 22 * * *
 
 jobs:
   run_all_steps:

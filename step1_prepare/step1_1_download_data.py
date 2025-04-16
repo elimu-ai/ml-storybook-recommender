@@ -9,7 +9,7 @@ print(os.path.basename(__file__), 'storybooks_dataframe: \n{}'.format(storybooks
 storybooks_dataframe.to_csv('step1_1_storybooks.csv', index=False)
 
 # Read the storybook learning events CSV into a DataFrame, and write the DataFrame to a CSV file
-storybook_learning_events_csv_url = 'http://hin.elimu.ai/analytics/storybook-learning-event/list/storybook-learning-events.csv'
+storybook_learning_events_csv_url = 'https://raw.githubusercontent.com/elimu-ai/ml-datasets/refs/heads/main/lang-HIN/storybook-learning-events.csv'
 print(os.path.basename(__file__), f'storybook_learning_events_csv_url: {storybook_learning_events_csv_url}')
 storybook_learning_events_dataframe = pandas.read_csv(storybook_learning_events_csv_url)
 print(os.path.basename(__file__), f'storybook_learning_events_dataframe: \n{storybook_learning_events_dataframe}')

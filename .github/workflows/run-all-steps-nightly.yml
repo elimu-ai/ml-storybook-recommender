@@ -32,14 +32,31 @@ jobs:
       run: |
         python run_all_steps.py
 
+    - name: GitHub Actor
+      env:
+        GITHUB_ACTOR: ${{ github.actor }}
+      run: echo "$GITHUB_ACTOR"
+
+    - name: GitHub Triggering Actor
+      env:
+        GITHUB_TRIGGERING_ACTOR: ${{ github.triggering_actor }}
+      run: echo "$GITHUB_TRIGGERING_ACTOR"
+
     - name: Git Config
       run: |
-        git config user.name 'Nya Ξlimu'
-        git config user.email 'info@elimu.ai'
+        git config user.name github-actions[bot]
+        git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+
     - name: Git Commit
       run: |
         git add step1_prepare/*.csv
         git commit -m 'chore(ml): run all steps' --allow-empty
+
+    - name: Git Pull
+      run: |
+        git fetch
+        git pull
+
     - name: Git Push
       run: |
         git push

@@ -3,6 +3,7 @@ name: Run all steps (nightly)
 on:
   schedule:
     - cron: 20 23 * * *
+  workflow_dispatch:
 
 jobs:
   run_all_steps:

@@ -1,69 +1,104 @@
-id,timestamp,android_id,package_name,storybook_id,storybook_title,learning_event_type
-187,1593338196000,f94a***b8d2,ai.elimu.vitabu,38.0,हमारे मित्र कौन है?,STORYBOOK_OPENED
-188,1593338164000,f94a***b8d2,ai.elimu.vitabu,41.0,राजू की पहली हवाई-यात्रा,STORYBOOK_OPENED
-189,1593337905000,f94a***b8d2,ai.elimu.vitabu,10.0,रिमझिम बरसे बादल,STORYBOOK_OPENED
-190,1593337900000,f94a***b8d2,ai.elimu.vitabu,1.0,"अभी नहीं, अभी नहीं!",STORYBOOK_OPENED
-191,1593337895000,f94a***b8d2,ai.elimu.vitabu,15.0,उड़ने वाला ऑटो,STORYBOOK_OPENED
-192,1593337850000,f94a***b8d2,ai.elimu.vitabu,1.0,"अभी नहीं, अभी नहीं!",STORYBOOK_OPENED
-193,1593526278000,f94a***b8d2,ai.elimu.vitabu,39.0,बंटी और उसके गाते हुए पक्षी,STORYBOOK_OPENED
-194,1593526257000,f94a***b8d2,ai.elimu.vitabu,40.0,सूरज का दोस्त कौन ?,STORYBOOK_OPENED
-195,1593526240000,f94a***b8d2,ai.elimu.vitabu,41.0,राजू की पहली हवाई-यात्रा,STORYBOOK_OPENED
-196,1593919393000,f94a***b8d2,ai.elimu.vitabu,15.0,उड़ने वाला ऑटो,STORYBOOK_OPENED
-197,1593940582000,e142***6032,ai.elimu.vitabu,48.0,ग़ोलू एक ग़ोल कि कहानी,STORYBOOK_OPENED
-198,1593940575000,e142***6032,ai.elimu.vitabu,49.0,लाल बरसाती,STORYBOOK_OPENED
-199,1599582905000,f94a***b8d2,ai.elimu.vitabu,5.0,बनबिलाव! बनबिलाव!,STORYBOOK_OPENED
-200,1599582466000,f94a***b8d2,ai.elimu.vitabu,2.0,आलू-मालू-कालू,STORYBOOK_OPENED
-201,1599581599000,f94a***b8d2,ai.elimu.vitabu,1.0,"अभी नहीं, अभी नहीं!",STORYBOOK_OPENED
-202,1602350226000,f94a***b8d2,ai.elimu.vitabu,1.0,"अभी नहीं, अभी नहीं!",STORYBOOK_OPENED
-203,1603749678000,f94a***b8d2,ai.elimu.vitabu,61.0,कुत्ते के अंडे,STORYBOOK_OPENED
-204,1603900046000,f94a***b8d2,ai.elimu.vitabu,11.0,गप्पू नाच नहीं सकती,STORYBOOK_OPENED
-205,1603899555000,f94a***b8d2,ai.elimu.vitabu,,रमाइलो दिन,STORYBOOK_OPENED
-206,1603899537000,f94a***b8d2,ai.elimu.vitabu,,रमाइलो दिन,STORYBOOK_OPENED
-207,1603897578000,f94a***b8d2,ai.elimu.vitabu,,रमाइलो दिन,STORYBOOK_OPENED
-208,1603896889000,f94a***b8d2,ai.elimu.vitabu,,रमाइलो दिन,STORYBOOK_OPENED
-209,1606061122000,f94a***b8d2,ai.elimu.vitabu,29.0,"आज, मैं हूँ...",STORYBOOK_OPENED
-210,1606683808000,f94a***b8d2,ai.elimu.vitabu,2.0,आलू-मालू-कालू,STORYBOOK_OPENED
-211,1606683798000,f94a***b8d2,ai.elimu.vitabu,1.0,"अभी नहीं, अभी नहीं!",STORYBOOK_OPENED
-212,1606683792000,f94a***b8d2,ai.elimu.vitabu,37.0,अद्भुत कीड़े,STORYBOOK_OPENED
-213,1607940723000,f94a***b8d2,ai.elimu.vitabu,27.0,तारा की गगनचुंबी यात्रा,STORYBOOK_OPENED
-214,1607940651000,f94a***b8d2,ai.elimu.vitabu,27.0,तारा की गगनचुंबी यात्रा,STORYBOOK_OPENED
-215,1607940607000,f94a***b8d2,ai.elimu.vitabu,51.0,घूम-घूम घड़ियाल का अनोखा सफ़र,STORYBOOK_OPENED
-216,1607940577000,f94a***b8d2,ai.elimu.vitabu,55.0,जादुर्इ गुटका,STORYBOOK_OPENED
-217,1607940532000,f94a***b8d2,ai.elimu.vitabu,40.0,सूरज का दोस्त कौन ?,STORYBOOK_OPENED
-218,1607940497000,f94a***b8d2,ai.elimu.vitabu,30.0,मलार का बड़ा सा घर,STORYBOOK_OPENED
-219,1607940459000,f94a***b8d2,ai.elimu.vitabu,5.0,बनबिलाव! बनबिलाव!,STORYBOOK_OPENED
-220,1607940430000,f94a***b8d2,ai.elimu.vitabu,23.0,स्वतंत्रता की ओर,STORYBOOK_OPENED
-221,1607940404000,f94a***b8d2,ai.elimu.vitabu,41.0,राजू की पहली हवाई-यात्रा,STORYBOOK_OPENED
-222,1607940383000,f94a***b8d2,ai.elimu.vitabu,15.0,उड़ने वाला ऑटो,STORYBOOK_OPENED
-223,1607940370000,f94a***b8d2,ai.elimu.vitabu,53.0,एक सौ सैंतीसवाँ पैर,STORYBOOK_OPENED
-224,1607940339000,f94a***b8d2,ai.elimu.vitabu,11.0,गप्पू नाच नहीं सकती,STORYBOOK_OPENED
-225,1607940270000,f94a***b8d2,ai.elimu.vitabu,29.0,"आज, मैं हूँ...",STORYBOOK_OPENED
-226,1607962630000,f94a***b8d2,ai.elimu.vitabu,22.0,मुत्तज्जी की उम्र क्या है?,STORYBOOK_OPENED
-227,1607962611000,f94a***b8d2,ai.elimu.vitabu,41.0,राजू की पहली हवाई-यात्रा,STORYBOOK_OPENED
-228,1607962595000,f94a***b8d2,ai.elimu.vitabu,11.0,गप्पू नाच नहीं सकती,STORYBOOK_OPENED
-229,1608766889000,f94a***b8d2,ai.elimu.vitabu,63.0,आनंद,STORYBOOK_OPENED
-230,1617200389000,f94a***b8d2,ai.elimu.vitabu,29.0,"आज, मैं हूँ...",STORYBOOK_OPENED
-231,1624130631000,f94a***b8d2,ai.elimu.vitabu,23.0,स्वतंत्रता की ओर,STORYBOOK_OPENED
-232,1624130566000,f94a***b8d2,ai.elimu.vitabu,23.0,स्वतंत्रता की ओर,STORYBOOK_OPENED
-233,1624130540000,f94a***b8d2,ai.elimu.vitabu,29.0,"आज, मैं हूँ...",STORYBOOK_OPENED
-234,1624130386000,f94a***b8d2,ai.elimu.vitabu,29.0,"आज, मैं हूँ...",STORYBOOK_OPENED
-235,1624130356000,f94a***b8d2,ai.elimu.vitabu,29.0,"आज, मैं हूँ...",STORYBOOK_OPENED
-236,1624130258000,f94a***b8d2,ai.elimu.vitabu,1.0,"अभी नहीं, अभी नहीं!",STORYBOOK_OPENED
-237,1624130213000,f94a***b8d2,ai.elimu.vitabu,37.0,अद्भुत कीड़े,STORYBOOK_OPENED
-238,1624776499000,f94a***b8d2,ai.elimu.vitabu,37.0,अद्भुत कीड़े,STORYBOOK_OPENED
-239,1624776446000,f94a***b8d2,ai.elimu.vitabu,37.0,अद्भुत कीड़े,STORYBOOK_OPENED
-240,1624776442000,f94a***b8d2,ai.elimu.vitabu,1.0,"अभी नहीं, अभी नहीं!",STORYBOOK_OPENED
-241,1624776061000,f94a***b8d2,ai.elimu.vitabu,1.0,"अभी नहीं, अभी नहीं!",STORYBOOK_OPENED
-242,1624775819000,f94a***b8d2,ai.elimu.vitabu,1.0,"अभी नहीं, अभी नहीं!",STORYBOOK_OPENED
-243,1629290144000,f94a***b8d2,ai.elimu.vitabu,1.0,"अभी नहीं, अभी नहीं!",STORYBOOK_OPENED
-244,1629290127000,f94a***b8d2,ai.elimu.vitabu,37.0,अद्भुत कीड़े,STORYBOOK_OPENED
-245,1629721527000,f94a***b8d2,ai.elimu.vitabu,30.0,मलार का बड़ा सा घर,STORYBOOK_OPENED
-246,1629721478000,f94a***b8d2,ai.elimu.vitabu,30.0,मलार का बड़ा सा घर,STORYBOOK_OPENED
-247,1630075738000,f94a***b8d2,ai.elimu.vitabu,1.0,"अभी नहीं, अभी नहीं!",STORYBOOK_OPENED
-248,1630075716000,f94a***b8d2,ai.elimu.vitabu,37.0,अद्भुत कीड़े,STORYBOOK_OPENED
-249,1630074282000,f94a***b8d2,ai.elimu.vitabu,66.0,"एक सफ़र, एक खेल",STORYBOOK_OPENED
-250,1630074219000,f94a***b8d2,ai.elimu.vitabu,66.0,"एक सफ़र, एक खेल",STORYBOOK_OPENED
-251,1629722157000,467a***4f82,ai.elimu.vitabu,30.0,मलार का बड़ा सा घर,STORYBOOK_OPENED
-252,1632391559000,467a***4f82,ai.elimu.vitabu,1.0,"अभी नहीं, अभी नहीं!",STORYBOOK_OPENED
-253,1642773664000,f94a***b8d2,ai.elimu.vitabu,5.0,बनबिलाव! बनबिलाव!,STORYBOOK_OPENED
-254,1642773408000,f94a***b8d2,ai.elimu.vitabu,30.0,मलार का बड़ा सा घर,STORYBOOK_OPENED
+id,timestamp,package_name,additional_data,research_experiment,experiment_group,storybook_title,storybook_id
+43842,1742290776,ai.elimu.vitabu.debug,,,,,41.0
+43841,1742292463,ai.elimu.vitabu.debug,,,,,37.0
+43840,1742292486,ai.elimu.vitabu.debug,,,,,63.0
+43844,1742365259,ai.elimu.vitabu.debug,,,,,29.0
+43843,1742367380,ai.elimu.vitabu.debug,,,,,14.0
+43845,1742468524,ai.elimu.vitabu.debug,,,,,42.0
+43846,1742985606,ai.elimu.vitabu.debug,,,,,4.0
+43849,1743674714,ai.elimu.vitabu.debug,,,,,63.0
+43848,1743695343,ai.elimu.vitabu.debug,,,,,4.0
+43847,1743696970,ai.elimu.vitabu.debug,,,,,4.0
+43851,1743766757,ai.elimu.vitabu.debug,,,,,6.0
+43850,1743770107,ai.elimu.vitabu.debug,,,,,40.0
+43857,1744279100,ai.elimu.vitabu.debug,,,,,11.0
+43856,1744279229,ai.elimu.vitabu.debug,,,,,32.0
+43855,1744280134,ai.elimu.vitabu.debug,,,,,63.0
+43854,1744280194,ai.elimu.vitabu.debug,,,,,63.0
+43853,1744281833,ai.elimu.vitabu.debug,,,,,63.0
+43852,1744281846,ai.elimu.vitabu.debug,,,,,1.0
+43858,1744549780,ai.elimu.vitabu.debug,,,,,37.0
+43865,1744790889,ai.elimu.vitabu.debug,,,,,2.0
+43864,1744792880,ai.elimu.vitabu.debug,,,,,2.0
+43863,1744792916,ai.elimu.vitabu.debug,,,,,63.0
+43862,1744792978,ai.elimu.vitabu.debug,,,,,37.0
+43861,1744793231,ai.elimu.vitabu.debug,,,,,1.0
+43860,1744796224,ai.elimu.vitabu.debug,,,,,37.0
+43859,1744796243,ai.elimu.vitabu.debug,,,,,37.0
+43874,1744874735,ai.elimu.vitabu.debug,,,,,59.0
+43873,1744875826,ai.elimu.vitabu.debug,,,,,28.0
+43872,1744875913,ai.elimu.vitabu.debug,,,,,28.0
+43871,1744877983,ai.elimu.vitabu.debug,,,,,59.0
+43870,1744878012,ai.elimu.vitabu.debug,,,,,59.0
+43869,1744878048,ai.elimu.vitabu.debug,,,,,41.0
+43868,1744878094,ai.elimu.vitabu.debug,,,,,21.0
+43867,1744878374,ai.elimu.vitabu.debug,,,,,50.0
+43866,1744881962,ai.elimu.vitabu.debug,,,,,37.0
+43876,1745915042,ai.elimu.vitabu.debug,,,,,37.0
+43875,1745935580,ai.elimu.vitabu.debug,,,,,37.0
+43877,1746029132,ai.elimu.vitabu.debug,,,,,29.0
+43878,1748962433,ai.elimu.vitabu.debug,,,,एक था मोटा राजा,6.0
+43879,1749023619,ai.elimu.vitabu.debug,,,,गप्पू नाच नहीं सकती,11.0
+43880,1749566542,ai.elimu.vitabu.debug,,,,एक था मोटा राजा,6.0
+43881,1749578413,ai.elimu.vitabu.debug,,,,आनंद,63.0
+43882,1749624705,ai.elimu.vitabu.debug,,,,आलू-मालू-कालू,2.0
+43883,1749637044,ai.elimu.vitabu.debug,,,,एक था मोटा राजा,6.0
+43884,1749637130,ai.elimu.vitabu.debug,,,,एक था मोटा राजा,6.0
+43885,1749637465,ai.elimu.vitabu.debug,,,,मलार का बड़ा सा घर,30.0
+43886,1750420175,ai.elimu.vitabu.debug,,0.0,0.0,अद्भुत कीड़े,37.0
+43887,1750420240,ai.elimu.vitabu.debug,,0.0,0.0,अद्भुत कीड़े,37.0
+43888,1750420250,ai.elimu.vitabu.debug,,0.0,0.0,"अभी नहीं, अभी नहीं!",1.0
+43889,1750429551,ai.elimu.vitabu.debug,,0.0,0.0,आलू-मालू-कालू,2.0
+43890,1750492718,ai.elimu.vitabu.debug,,0.0,0.0,अद्भुत कीड़े,37.0
+43891,1750493001,ai.elimu.vitabu.debug,,0.0,0.0,अद्भुत कीड़े,37.0
+43892,1750493106,ai.elimu.vitabu.debug,"{""seconds_spent_per_chapter"":""[10, 8, 8, 9, 13, 9, 6, 6, 11, 9, 3]""}",0.0,0.0,अद्भुत कीड़े,37.0
+43893,1750497944,ai.elimu.vitabu.debug,,0.0,0.0,"अभी नहीं, अभी नहीं!",1.0
+43894,1750498010,ai.elimu.vitabu.debug,"{""seconds_spent_per_chapter"":""[8, 11, 10, 10, 8, 5, 3]""}",0.0,0.0,"अभी नहीं, अभी नहीं!",1.0
+43895,1750673596,ai.elimu.vitabu.debug,,0.0,0.0,एक था मोटा राजा,6.0
+43896,1750673733,ai.elimu.vitabu.debug,"{""seconds_spent_per_chapter"":""[15, 16, 21, 15, 42, 10, 10]""}",0.0,0.0,एक था मोटा राजा,6.0
+43897,1750839533,ai.elimu.vitabu.debug,,0.0,0.0,"अरे, यह सब कौन खा गया?",36.0
+43898,1750839558,ai.elimu.vitabu.debug,,0.0,0.0,"आज, मैं हूँ...",29.0
+43899,1751168216,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,0.0,"आज, मैं हूँ...",29.0
+43900,1751168578,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,0.0,"आज, मैं हूँ...",29.0
+43901,1751270172,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,0.0,एक था मोटा राजा,6.0
+43902,1751272284,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,0.0,अद्भुत कीड़े,37.0
+43903,1751272326,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[3, 3, 4, 3, 3, 3, 2, 3, 2, 3, 3]""}",0.0,0.0,अद्भुत कीड़े,37.0
+43904,1751420997,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,0.0,स्वतंत्रता की ओर,23.0
+43905,1751422368,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,0.0,आनंद,63.0
+43906,1752824314,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,0.0,एक था मोटा राजा,
+43907,1752824467,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,0.0,और चीकू भी,
+43908,1753945642,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,0.0,"अभी नहीं, अभी नहीं!",1.0
+43910,1741600201,ai.elimu.vitabu.debug,,,,,37.0
+43909,1741600736,ai.elimu.vitabu.debug,,,,,1.0
+43918,1741674550,ai.elimu.vitabu.debug,,,,,42.0
+43917,1741674854,ai.elimu.vitabu.debug,,,,,29.0
+43916,1741674875,ai.elimu.vitabu.debug,,,,,53.0
+43915,1741690766,ai.elimu.vitabu.debug,,,,,23.0
+43914,1741690782,ai.elimu.vitabu.debug,,,,,41.0
+43913,1741691911,ai.elimu.vitabu.debug,,,,,63.0
+43912,1741692634,ai.elimu.vitabu.debug,,,,,11.0
+43911,1741697602,ai.elimu.vitabu.debug,,,,,37.0
+43919,1741850408,ai.elimu.vitabu.debug,,,,,23.0
+43921,1742193750,ai.elimu.vitabu.debug,,,,,29.0
+43920,1742202366,ai.elimu.vitabu.debug,,,,,6.0
+43922,1742293045,ai.elimu.vitabu.debug,,,,,63.0
+43925,1742367322,ai.elimu.vitabu.debug,,,,,14.0
+43924,1742377182,ai.elimu.vitabu.debug,,,,,63.0
+43923,1742377239,ai.elimu.vitabu.debug,,,,,32.0
+43926,1742468098,ai.elimu.vitabu.debug,,,,,2.0
+43927,1742986063,ai.elimu.vitabu.debug,,,,,7.0
+43932,1743665364,ai.elimu.vitabu.debug,,,,,37.0
+43931,1743673117,ai.elimu.vitabu.debug,,,,,29.0
+43930,1743673223,ai.elimu.vitabu.debug,,,,,32.0
+43929,1743698006,ai.elimu.vitabu.debug,,,,,2.0
+43928,1743698325,ai.elimu.vitabu.debug,,,,,41.0
+43935,1744275926,ai.elimu.vitabu.debug,,,,,6.0
+43934,1744276920,ai.elimu.vitabu.debug,,,,,2.0
+43933,1744280377,ai.elimu.vitabu.debug,,,,,6.0
+43936,1744364164,ai.elimu.vitabu.debug,,,,,63.0
+43937,1744545089,ai.elimu.vitabu.debug,,,,,6.0
+43938,1744632429,ai.elimu.vitabu.debug,,,,,36.0
+43940,1744882091,ai.elimu.vitabu.debug,,,,,2.0
+43939,1744882150,ai.elimu.vitabu.debug,,,,,37.0
+43942,1745067389,ai.elimu.vitabu.debug,,,,,37.0
+43941,1745067451,ai.elimu.vitabu.debug,,,,,63.0

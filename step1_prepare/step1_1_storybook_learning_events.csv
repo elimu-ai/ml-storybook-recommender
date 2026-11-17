@@ -102,3 +102,5 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,s
 43939,1744882150,ai.elimu.vitabu.debug,,,,,37.0
 43942,1745067389,ai.elimu.vitabu.debug,,,,,37.0
 43941,1745067451,ai.elimu.vitabu.debug,,,,,63.0
+43943,1794735952,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0.0,0.0,अद्भुत कीड़े,37.0
+43944,1794736239,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,अद्भुत कीड़े,37.0

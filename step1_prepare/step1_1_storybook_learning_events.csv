@@ -68,39 +68,47 @@ id,timestamp,package_name,additional_data,research_experiment,experiment_group,s
 43906,1752824314,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,0.0,एक था मोटा राजा,
 43907,1752824467,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,0.0,और चीकू भी,
 43908,1753945642,ai.elimu.vitabu.debug,"{""eventType"":""STORYBOOK_OPENED""}",0.0,0.0,"अभी नहीं, अभी नहीं!",1.0
-43910,1741600201,ai.elimu.vitabu.debug,,,,,37.0
-43909,1741600736,ai.elimu.vitabu.debug,,,,,1.0
-43918,1741674550,ai.elimu.vitabu.debug,,,,,42.0
-43917,1741674854,ai.elimu.vitabu.debug,,,,,29.0
-43916,1741674875,ai.elimu.vitabu.debug,,,,,53.0
-43915,1741690766,ai.elimu.vitabu.debug,,,,,23.0
-43914,1741690782,ai.elimu.vitabu.debug,,,,,41.0
-43913,1741691911,ai.elimu.vitabu.debug,,,,,63.0
-43912,1741692634,ai.elimu.vitabu.debug,,,,,11.0
-43911,1741697602,ai.elimu.vitabu.debug,,,,,37.0
-43919,1741850408,ai.elimu.vitabu.debug,,,,,23.0
-43921,1742193750,ai.elimu.vitabu.debug,,,,,29.0
-43920,1742202366,ai.elimu.vitabu.debug,,,,,6.0
-43922,1742293045,ai.elimu.vitabu.debug,,,,,63.0
-43925,1742367322,ai.elimu.vitabu.debug,,,,,14.0
-43924,1742377182,ai.elimu.vitabu.debug,,,,,63.0
-43923,1742377239,ai.elimu.vitabu.debug,,,,,32.0
-43926,1742468098,ai.elimu.vitabu.debug,,,,,2.0
-43927,1742986063,ai.elimu.vitabu.debug,,,,,7.0
-43932,1743665364,ai.elimu.vitabu.debug,,,,,37.0
-43931,1743673117,ai.elimu.vitabu.debug,,,,,29.0
-43930,1743673223,ai.elimu.vitabu.debug,,,,,32.0
-43929,1743698006,ai.elimu.vitabu.debug,,,,,2.0
-43928,1743698325,ai.elimu.vitabu.debug,,,,,41.0
-43935,1744275926,ai.elimu.vitabu.debug,,,,,6.0
-43934,1744276920,ai.elimu.vitabu.debug,,,,,2.0
-43933,1744280377,ai.elimu.vitabu.debug,,,,,6.0
-43936,1744364164,ai.elimu.vitabu.debug,,,,,63.0
-43937,1744545089,ai.elimu.vitabu.debug,,,,,6.0
-43938,1744632429,ai.elimu.vitabu.debug,,,,,36.0
-43940,1744882091,ai.elimu.vitabu.debug,,,,,2.0
-43939,1744882150,ai.elimu.vitabu.debug,,,,,37.0
-43942,1745067389,ai.elimu.vitabu.debug,,,,,37.0
-43941,1745067451,ai.elimu.vitabu.debug,,,,,63.0
-43943,1794735952,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0.0,0.0,अद्भुत कीड़े,37.0
-43944,1794736239,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0.0,1.0,अद्भुत कीड़े,37.0
+43910,1741600201,ai.elimu.vitabu.debug,,,,,37
+43909,1741600736,ai.elimu.vitabu.debug,,,,,1
+43918,1741674550,ai.elimu.vitabu.debug,,,,,42
+43917,1741674854,ai.elimu.vitabu.debug,,,,,29
+43916,1741674875,ai.elimu.vitabu.debug,,,,,53
+43915,1741690766,ai.elimu.vitabu.debug,,,,,23
+43914,1741690782,ai.elimu.vitabu.debug,,,,,41
+43913,1741691911,ai.elimu.vitabu.debug,,,,,63
+43912,1741692634,ai.elimu.vitabu.debug,,,,,11
+43911,1741697602,ai.elimu.vitabu.debug,,,,,37
+43919,1741850408,ai.elimu.vitabu.debug,,,,,23
+43921,1742193750,ai.elimu.vitabu.debug,,,,,29
+43920,1742202366,ai.elimu.vitabu.debug,,,,,6
+43922,1742293045,ai.elimu.vitabu.debug,,,,,63
+43925,1742367322,ai.elimu.vitabu.debug,,,,,14
+43924,1742377182,ai.elimu.vitabu.debug,,,,,63
+43923,1742377239,ai.elimu.vitabu.debug,,,,,32
+43926,1742468098,ai.elimu.vitabu.debug,,,,,2
+43927,1742986063,ai.elimu.vitabu.debug,,,,,7
+43932,1743665364,ai.elimu.vitabu.debug,,,,,37
+43931,1743673117,ai.elimu.vitabu.debug,,,,,29
+43930,1743673223,ai.elimu.vitabu.debug,,,,,32
+43929,1743698006,ai.elimu.vitabu.debug,,,,,2
+43928,1743698325,ai.elimu.vitabu.debug,,,,,41
+43935,1744275926,ai.elimu.vitabu.debug,,,,,6
+43934,1744276920,ai.elimu.vitabu.debug,,,,,2
+43933,1744280377,ai.elimu.vitabu.debug,,,,,6
+43936,1744364164,ai.elimu.vitabu.debug,,,,,63
+43937,1744545089,ai.elimu.vitabu.debug,,,,,6
+43938,1744632429,ai.elimu.vitabu.debug,,,,,36
+43940,1744882091,ai.elimu.vitabu.debug,,,,,2
+43939,1744882150,ai.elimu.vitabu.debug,,,,,37
+43942,1745067389,ai.elimu.vitabu.debug,,,,,37
+43941,1745067451,ai.elimu.vitabu.debug,,,,,63
+43943,1794735952,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,अद्भुत कीड़े,37
+43945,1794760268,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,अद्भुत कीड़े,37
+43946,1794760409,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,स्वतंत्रता की ओर,23
+43947,1794760442,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,अद्भुत कीड़े,37
+43948,1794760498,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,अद्भुत कीड़े,37
+43949,1794760617,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,"अभी नहीं, अभी नहीं!",1
+43950,1794813540,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,अद्भुत कीड़े,37
+43951,1794813606,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_COMPLETED"",""seconds_spent_per_chapter"":""[5, 5, 6, 5, 5, 6, 5, 5, 5, 5, 1]""}",0,0,अद्भुत कीड़े,37
+43952,1794813611,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,0,"अभी नहीं, अभी नहीं!",1
+43944,1794736239,ai.elimu.vitabu,"{""eventType"":""STORYBOOK_OPENED""}",0,1,अद्भुत कीड़े,37
